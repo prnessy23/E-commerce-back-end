@@ -4,7 +4,10 @@
   "description": "## Your Task",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node ./seeds.index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +20,10 @@
   },
   "homepage": "https://github.com/prnessy23/E-commerce-back-end#readme",
   "dependencies": {
-    "inquirer": "^9.1.4",
-    "mysql2": "^3.1.0"
-  }
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20"
+  },
+  "keywords": []
 }
