@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prnessy23/E-commerce-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prnessy23/E-commerce-back-end/issues"
+  },
+  "homepage": "https://github.com/prnessy23/E-commerce-back-end#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "mysql2": "^3.1.0"
+  }
+}
