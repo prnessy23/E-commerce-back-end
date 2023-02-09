@@ -13,11 +13,10 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
     },
-    // defining catagory_name column
-    catagory_name: {
+    // defining category_name column
+    category_name: {
       type: DataTypes.STRING,
       allowNull: false
-
     }
     
   },
