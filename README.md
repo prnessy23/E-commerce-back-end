@@ -2,7 +2,7 @@
 ___
 #### Description
 ____
- A project to allow for the back-end functionality of an e-commerce website. The application uses Express.js API's along with Sequelize to interact with a MySQL database
+ A project to allow for the back-end functionality of an e-commerce website. The application uses Express.js API's along with Sequelize to interact with a MySQL database.
  ____
 
  #### Table of Contents
